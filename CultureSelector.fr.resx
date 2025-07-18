@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ConfirmDialogBtnCancel" xml:space="preserve">
+    <value>Annuler</value>
+  </data>
+  <data name="ConfirmDialogBtnConfirm" xml:space="preserve">
+    <value>Valider</value>
+  </data>
+  <data name="DropDownFloatListOptSelect" xml:space="preserve">
+    <value>(sélectionner)</value>
+  </data>
+  <data name="DropDownListColorLblCustomColor" xml:space="preserve">
+    <value>Couleur personnalizée</value>
+  </data>
+  <data name="DropDownListOptSelect" xml:space="preserve">
+    <value>(sélectionner)</value>
+  </data>
+  <data name="DropDownListTxtSelectColor" xml:space="preserve">
+    <value>Sélectionner la couleur</value>
+  </data>
+  <data name="InternationalPhoneTxtSearchCountry" xml:space="preserve">
+    <value>Rechercher un pays...</value>
+  </data>
+  <data name="NotificationBellTxtNoNotifications" xml:space="preserve">
+    <value>Aucune notification pour le moment</value>
+  </data>
+  <data name="NotificationBellTxtShowAllNotifications" xml:space="preserve">
+    <value>Afficher toutes les notifications</value>
+  </data>
+  <data name="SearchCompanyBtnShowAllCompanies" xml:space="preserve">
+    <value>Afficher toutes les entreprises</value>
+  </data>
+  <data name="SearchCompanyFieldName" xml:space="preserve">
+    <value>Nom</value>
+  </data>
+  <data name="SearchCompanyInvalidWebsite" xml:space="preserve">
+    <value>Site web invalide</value>
+  </data>
+  <data name="SearchCompanyLblCity" xml:space="preserve">
+    <value>Ville</value>
+  </data>
+  <data name="SearchCompanyLblCompany" xml:space="preserve">
+    <value>Entreprise</value>
+  </data>
+  <data name="SearchCompanyLblProvince" xml:space="preserve">
+    <value>Province</value>
+  </data>
+  <data name="SearchCompanyNoData" xml:space="preserve">
+    <value>Aucune donnée à afficher</value>
+  </data>
+  <data name="SearchConnectionNoData" xml:space="preserve">
+    <value>Aucune donnée à afficher</value>
+  </data>
+  <data name="SearchCompanySearch" xml:space="preserve">
+    <value>Recherche</value>
+  </data>
+  <data name="SearchFilterInputCriteria" xml:space="preserve">
+    <value>Entrez la valeur souhaitée</value>
+  </data>
+  <data name="SearchFilterSearchUsers" xml:space="preserve">
+    <value>Rechercher des utilisateurs</value>
+  </data>
+  <data name="SearchGroupNoData" xml:space="preserve">
+    <value>Aucune donnée à afficher</value>
+  </data>
+  <data name="SearchMachineNoData" xml:space="preserve">
+    <value>Aucune donnée à afficher</value>
+  </data>
+  <data name="SearchRoleNoData" xml:space="preserve">
+    <value>Aucune donnée à afficher</value>
+  </data>
+  <data name="SearchMachineConnectionNoData" xml:space="preserve">
+    <value>Aucune donnée à afficher</value>
+  </data>
+  <data name="SearchGroupThName" xml:space="preserve">
+    <value>Nom</value>
+  </data>
+  <data name="SearchExternalUserTxtShowAllUsers" xml:space="preserve">
+    <value>Afficher tous les utilizateurs externes</value>
+  </data>
+  <data name="SearchMachineTxtShowAllUsers" xml:space="preserve">
+    <value>Afficher tous les utilizateurs </value>
+  </data>
+  <data name="SearchUserTxtShowAllUsers" xml:space="preserve">
+    <value>Afficher tous les utilizateurs </value>
+  </data>
+  <data name="SearchMachineConnectionTxtShowAllShifts" xml:space="preserve">
+    <value>Afficher tous les postes</value>
+  </data>
+  <data name="SearchExternalUserTitleExternalUserSearch" xml:space="preserve">
+    <value>Recherche d'Utilizateurs Externes</value>
+  </data>
+  <data name="SearchExternalUserThName" xml:space="preserve">
+    <value>Nom</value>
+  </data>
+  <data name="SearchExternalUserThFullNameEmail" xml:space="preserve">
+    <value>Nom complet / E-mail</value>
+  </data>
+  <data name="SearchExternalUserThFullName" xml:space="preserve">
+    <value>Nom complet</value>
+  </data>
+  <data name="SearchExternalUserThEmail" xml:space="preserve">
+    <value>E-mail</value>
+  </data>
+  <data name="SearchExternalUserNoData" xml:space="preserve">
+    <value>Aucune donée à afficher</value>
+  </data>
+  <data name="SearchExternalUserNameField" xml:space="preserve">
+    <value>Votre nome ici</value>
+  </data>
+  <data name="SearchExternalUserlFieldRequired" xml:space="preserve">
+    <value>Ce champ est obligatoire</value>
+  </data>
+  <data name="SearchExternalUserLblUsername" xml:space="preserve">
+    <value>Nom d'utilisateur</value>
+  </data>
+  <data name="SearchExternalUserLblPhone" xml:space="preserve">
+    <value>Téléphone</value>
+  </data>
+  <data name="SearchExternalUserEmailField" xml:space="preserve">
+    <value>Votre e-mail ici</value>
+  </data>
+  <data name="SearchExternalUserBtnSave" xml:space="preserve">
+    <value>Enregistrer</value>
+  </data>
+  <data name="SearchExternalUserBtnConfirm" xml:space="preserve">
+    <value>Valider</value>
+  </data>
+  <data name="SearchExternalUserBtnCancel" xml:space="preserve">
+    <value>Annuler</value>
+  </data>
+  <data name="SearchMachineThName" xml:space="preserve">
+    <value>Nom</value>
+  </data>
+  <data name="SearchMachineThModel" xml:space="preserve">
+    <value>Modèle</value>
+  </data>
+  <data name="SearchMachineThNameModel" xml:space="preserve">
+    <value>Nom / Modèle</value>
+  </data>
+  <data name="SearchRoleThRole" xml:space="preserve">
+    <value>Rôle</value>
+  </data>
+  <data name="SearchUserThName" xml:space="preserve">
+    <value>Nom</value>
+  </data>
+  <data name="SearchUserThFullNameEmail" xml:space="preserve">
+    <value>Nom complet / E-mail</value>
+  </data>
+  <data name="SearchUserThFullName" xml:space="preserve">
+    <value>Nom complet</value>
+  </data>
+  <data name="SearchUserThEmail" xml:space="preserve">
+    <value>E-mail</value>
+  </data>
+  <data name="SearchUserNoData" xml:space="preserve">
+    <value>Aucune donnée à afficher</value>
+  </data>
+  <data name="DynamicTableThEdit" xml:space="preserve">
+    <value>Modifier</value>
+  </data>
+  <data name="DynamicTableTdEdit" xml:space="preserve">
+    <value>Modifier</value>
+  </data>
+  <data name="DynamicTableThDetails" xml:space="preserve">
+    <value>Détails</value>
+  </data>
+  <data name="DynamicTableTdDetails" xml:space="preserve">
+    <value>Détails</value>
+  </data>
+  <data name="DynamicTableTxtListing" xml:space="preserve">
+    <value>Affichage de</value>
+  </data>
+  <data name="DynamicTableTxtOf" xml:space="preserve">
+    <value>sur</value>
+  </data>
+  <data name="DynamicTableTxtTotalRecords" xml:space="preserve">
+    <value>Total des enregistrements</value>
+  </data>
+  <data name="TreeViewTxtItems" xml:space="preserve">
+    <value>Articles</value>
+  </data>
+  <data name="CheckWeekDaysBtnAllDays" xml:space="preserve">
+    <value>Tous les jours</value>
+  </data>
+  <data name="CheckWeekDaysBtnBusinessDays" xml:space="preserve">
+    <value>Jours ouvrables</value>
+  </data>
+  <data name="CheckWeekDaysBtnWeekend" xml:space="preserve">
+    <value>Weekend</value>
+  </data>
+  <data name="CheckWeekDaysBtnClear" xml:space="preserve">
+    <value>Effacer</value>
+  </data>
+  <data name="WizardBtnPrevious" xml:space="preserve">
+    <value>Précédent</value>
+  </data>
+  <data name="WizardBtnNext" xml:space="preserve">
+    <value>Suivant</value>
+  </data>
+  <data name="DropDownListLanguageOptSelect" xml:space="preserve">
+    <value>(sélectionner)</value>
+  </data>
+  <data name="SearchExternalUserLblEmail" xml:space="preserve">
+    <value>E-mail</value>
+  </data>
+</root>
