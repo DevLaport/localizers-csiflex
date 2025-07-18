@@ -117,82 +117,79 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="MenusFormBreadcrumb1" xml:space="preserve">
+  <data name="GroupsFormBreadcrumb1" xml:space="preserve">
     <value />
   </data>
-  <data name="MenusFormBreadcrumb2" xml:space="preserve">
+  <data name="GroupsFormBreadcrumb2" xml:space="preserve">
     <value />
   </data>
-  <data name="MenusFormBtnAddMenu" xml:space="preserve">
+  <data name="GroupsFormBreadcrumb3" xml:space="preserve">
     <value />
   </data>
-  <data name="MenusFormParagraph1" xml:space="preserve">
+  <data name="GroupsFormBtnCancel" xml:space="preserve">
     <value />
   </data>
-  <data name="MenusFormLblMoveUp" xml:space="preserve">
+  <data name="GroupsFormBtnSave" xml:space="preserve">
     <value />
   </data>
-  <data name="MenusFormLblMoveDown" xml:space="preserve">
+  <data name="GroupsFormBtnSearchMachine" xml:space="preserve">
     <value />
   </data>
-  <data name="MenusFormToggleEnabled" xml:space="preserve">
+  <data name="GroupsFormBtnSearchUser" xml:space="preserve">
     <value />
   </data>
-  <data name="MenusFormBtnEdit" xml:space="preserve">
+  <data name="GroupsFormLblCompanySearch" xml:space="preserve">
     <value />
   </data>
-  <data name="MenusFormThPhoneNumber" xml:space="preserve">
+  <data name="GroupsFormBtnSearchCompany" xml:space="preserve">
     <value />
   </data>
-  <data name="MenusFormLblMenu" xml:space="preserve">
+  <data name="GroupsFormLblEnabled" xml:space="preserve">
     <value />
   </data>
-  <data name="MenusFormAddOrEditMenuItem" xml:space="preserve">
+  <data name="GroupsFormLblMachineSearch" xml:space="preserve">
     <value />
   </data>
-  <data name="MenusFormItemName" xml:space="preserve">
+  <data name="GroupsFormLblMachineSearch2" xml:space="preserve">
     <value />
   </data>
-  <data name="MenusFormURL" xml:space="preserve">
+  <data name="GroupsFormLblCompanySearch2" xml:space="preserve">
     <value />
   </data>
-  <data name="MenusFormLblLevel" xml:space="preserve">
+  <data name="GroupsFormLblUserSearch2" xml:space="preserve">
     <value />
   </data>
-  <data name="MenusFormLblIcon" xml:space="preserve">
+  <data name="GroupsFormLblName" xml:space="preserve">
     <value />
   </data>
-  <data name="MenusFormLblEnable" xml:space="preserve">
+  <data name="GroupsFormLblType" xml:space="preserve">
     <value />
   </data>
-  <data name="MenusFormLblEnabledMenuAction" xml:space="preserve">
+  <data name="GroupsFormLblUserSearch" xml:space="preserve">
     <value />
   </data>
-  <data name="MenusFormLblSpecificAction" xml:space="preserve">
+  <data name="GroupsFormNoData" xml:space="preserve">
     <value />
   </data>
-  <data name="MenusFormBtnSave" xml:space="preserve">
+  <data name="GroupsFormTabCompanies" xml:space="preserve">
     <value />
   </data>
-  <data name="MenusFormBtnCancel" xml:space="preserve">
+  <data name="GroupsFormTabGroup" xml:space="preserve">
     <value />
   </data>
-  <data name="MenusFormAccess" xml:space="preserve">
+  <data name="GroupsFormTabMachines" xml:space="preserve">
     <value />
   </data>
-  <data name="MenusFormList" xml:space="preserve">
+  <data name="GroupsFormTabUsers" xml:space="preserve">
     <value />
   </data>
-  <data name="MenusFormAdd" xml:space="preserve">
+  <data name="GroupsFormThCompany" xml:space="preserve">
     <value />
   </data>
-  <data name="MenusFormEdit" xml:space="preserve">
+  <data name="GroupsFormThMachine" xml:space="preserve">
     <value />
   </data>
-  <data name="MenusFormDelete" xml:space="preserve">
-    <value />
-  </data>
-  <data name="MenusFormSpecificAction" xml:space="preserve">
+  <data name="GroupsFormThUser" xml:space="preserve">
     <value />
   </data>
 </root>

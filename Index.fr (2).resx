@@ -117,28 +117,55 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="MachinesIndexBtnAddMachine" xml:space="preserve">
-    <value>Ajouter une machine</value>
+  <data name="breadcrumb1" xml:space="preserve">
+    <value>Accueil</value>
   </data>
-  <data name="MachinesIndexChangeViewModel" xml:space="preserve">
-    <value>Changer le modèle de vue</value>
+  <data name="breadcrumb2" xml:space="preserve">
+    <value>Départements</value>
   </data>
-  <data name="MachinesIndexEditItem" xml:space="preserve">
-    <value>Modifier l'élément</value>
+  <data name="btnAdd" xml:space="preserve">
+    <value>Ajouter</value>
   </data>
-  <data name="MachinesIndexNoData" xml:space="preserve">
-    <value>Aucune donnée à afficher</value>
+  <data name="btnCancel" xml:space="preserve">
+    <value>Annuler</value>
   </data>
-  <data name="MachinesIndexParagraph1" xml:space="preserve">
-    <value>Machines</value>
+  <data name="btnClick1" xml:space="preserve">
+    <value>Cliquez pour éditer l'élément</value>
   </data>
-  <data name="MachinesIndexShowAllMachines" xml:space="preserve">
-    <value>Afficher toutes les machines</value>
+  <data name="btnClick2" xml:space="preserve">
+    <value>Cliquez pour réduire tous les éléments</value>
   </data>
-  <data name="MachinesIndexShowDisabled" xml:space="preserve">
-    <value>Afficher les désactivés</value>
+  <data name="btnClick3" xml:space="preserve">
+    <value>Cliquez pour afficher tous les éléments</value>
   </data>
-  <data name="MachinesIndexShowEnabled" xml:space="preserve">
-    <value>Afficher les activés</value>
+  <data name="btnClick4" xml:space="preserve">
+    <value>Cliquez pour supprimer l'élément</value>
+  </data>
+  <data name="btnDelete" xml:space="preserve">
+    <value>Supprimer</value>
+  </data>
+  <data name="btnEdit" xml:space="preserve">
+    <value>Modifier</value>
+  </data>
+  <data name="lblCompany" xml:space="preserve">
+    <value>Société / Département / Groupe</value>
+  </data>
+  <data name="lblDepartmentName" xml:space="preserve">
+    <value>Nom du Département</value>
+  </data>
+  <data name="lblDepartmentType" xml:space="preserve">
+    <value>Type de Département</value>
+  </data>
+  <data name="paragraph1" xml:space="preserve">
+    <value>Départements</value>
+  </data>
+  <data name="paragraph2" xml:space="preserve">
+    <value>Département ou Groupe</value>
+  </data>
+  <data name="pDelete" xml:space="preserve">
+    <value>Voulez-vous vraiment supprimer</value>
+  </data>
+  <data name="txtSelect" xml:space="preserve">
+    <value>(sélectionner)</value>
   </data>
 </root>

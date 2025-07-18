@@ -117,25 +117,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="MappingFieldsIndexBtnAddMappingField" xml:space="preserve">
-    <value>Ajouter un champ de mappage</value>
+  <data name="GroupsIndexBreadcrumb1" xml:space="preserve">
+    <value>Accueil</value>
   </data>
-  <data name="MappingFieldsIndexNoData" xml:space="preserve">
-    <value>Aucune donnée à afficher</value>
+  <data name="GroupsIndexBreadcrumb2" xml:space="preserve">
+    <value>Groupes</value>
   </data>
-  <data name="MappingFieldsIndexParagraph1" xml:space="preserve">
-    <value>Champs de mappage</value>
+  <data name="GroupsIndexShowAllGroups" xml:space="preserve">
+    <value>Afficher tous les groupes</value>
   </data>
-  <data name="MappingFieldsIndexShowDisabled" xml:space="preserve">
-    <value>Afficher desactivés</value>
+  <data name="GroupsIndexParagraph1" xml:space="preserve">
+    <value>Groupes</value>
   </data>
-  <data name="MappingFieldsIndexShowEnabled" xml:space="preserve">
-    <value>Afficher activés</value>
+  <data name="GroupsIndexThActions" xml:space="preserve">
+    <value>Actions</value>
   </data>
-  <data name="MappingFieldsIndexShowGroups" xml:space="preserve">
-    <value>Afficher des groups</value>
+  <data name="GroupsIndexThName" xml:space="preserve">
+    <value>Nom</value>
   </data>
-  <data name="MappingFieldsIndexShowTile" xml:space="preserve">
-    <value>Afficher mosaïque</value>
+  <data name="GroupsIndexBtnAddGroup" xml:space="preserve">
+    <value>Ajouter un groupe</value>
+  </data>
+  <data name="GroupsIndexShowDisabled" xml:space="preserve">
+    <value>Afficher les désactivés</value>
+  </data>
+  <data name="GroupsIndexShowEnabled" xml:space="preserve">
+    <value>Afficher les activés</value>
+  </data>
+  <data name="GroupsIndexChangeViewModel" xml:space="preserve">
+    <value>Changer le modèle de vue</value>
+  </data>
+  <data name="GroupsIndexEditItem" xml:space="preserve">
+    <value>Modifier l'élément</value>
+  </data>
+  <data name="GroupsIndexTitleEditItem" xml:space="preserve">
+    <value>Modifier l'élément</value>
   </data>
 </root>

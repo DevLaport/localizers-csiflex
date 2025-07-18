@@ -117,28 +117,175 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="MappingFieldsFormBtnCancel" xml:space="preserve">
+  <data name="CompaniesFormAddressMustBeInformed" xml:space="preserve">
+    <value>O endereço precisa ser informado</value>
+  </data>
+  <data name="CompaniesFormBntLogo" xml:space="preserve">
+    <value>Logotipo</value>
+  </data>
+  <data name="CompaniesFormBreadcrumb1" xml:space="preserve">
+    <value>Página Inicial</value>
+  </data>
+  <data name="CompaniesFormBreadcrumb2" xml:space="preserve">
+    <value>Empresa</value>
+  </data>
+  <data name="CompaniesFormBreadcrumb3" xml:space="preserve">
+    <value>Adicionar Empresa</value>
+  </data>
+  <data name="CompaniesFormBtnAddDepartment" xml:space="preserve">
+    <value>Adicionar Departamento</value>
+  </data>
+  <data name="CompaniesFormBtnAddNewDivision" xml:space="preserve">
+    <value>Adicionar Filial</value>
+  </data>
+  <data name="CompaniesFormBtnCancel" xml:space="preserve">
     <value>Cancelar</value>
   </data>
-  <data name="MappingFieldsFormBtnSave" xml:space="preserve">
+  <data name="CompaniesFormBtnLogo" xml:space="preserve">
+    <value>Logotipo</value>
+  </data>
+  <data name="CompaniesFormBtnSave" xml:space="preserve">
     <value>Salvar</value>
   </data>
-  <data name="MappingFieldsFormLabelType" xml:space="preserve">
-    <value>Tipo</value>
+  <data name="CompaniesFormCityMustBeInformed" xml:space="preserve">
+    <value>A cidade precisa ser informada</value>
   </data>
-  <data name="MappingFieldsFormLabelTypeRequired" xml:space="preserve">
-    <value>Campo tipo é obrigatório</value>
+  <data name="CompaniesFormCompanyNameMustBeInformed" xml:space="preserve">
+    <value>O nome da empresa deve ser informado</value>
   </data>
-  <data name="MappingFieldsFormLblEnabled" xml:space="preserve">
-    <value>Habilitado</value>
+  <data name="CompaniesFormContactNameMustBeInformed" xml:space="preserve">
+    <value>O nome de contato precisa ser informado</value>
   </data>
-  <data name="MappingFieldsFormLblName" xml:space="preserve">
+  <data name="CompaniesFormCountryMustBeSelected" xml:space="preserve">
+    <value>O país precisa ser selecionado</value>
+  </data>
+  <data name="CompaniesFormDepartmentName" xml:space="preserve">
+    <value>Nome do departamento</value>
+  </data>
+  <data name="CompaniesFormDepartmentNameMustBeInformed" xml:space="preserve">
+    <value>O nome do departamento precisa ser informado</value>
+  </data>
+  <data name="CompaniesFormDepartments" xml:space="preserve">
+    <value>Departamentos</value>
+  </data>
+  <data name="CompaniesFormEmailMustBeInformed" xml:space="preserve">
+    <value>O e-mail precisa ser informado</value>
+  </data>
+  <data name="CompaniesFormInformAddress" xml:space="preserve">
+    <value>Informe o endereço</value>
+  </data>
+  <data name="CompaniesFormInformCity" xml:space="preserve">
+    <value>Informe a cidade</value>
+  </data>
+  <data name="CompaniesFormInformCompanyName" xml:space="preserve">
+    <value>Informe o nome da empresa</value>
+  </data>
+  <data name="CompaniesFormInformContactName" xml:space="preserve">
+    <value>Informe o nome de contato</value>
+  </data>
+  <data name="CompaniesFormInformDepartmentName" xml:space="preserve">
+    <value>Informe o nome do departamento</value>
+  </data>
+  <data name="CompaniesFormInformEmail" xml:space="preserve">
+    <value>Informe o e-mail</value>
+  </data>
+  <data name="CompaniesFormInformNickname" xml:space="preserve">
+    <value>Informe o apelido</value>
+  </data>
+  <data name="CompaniesFormInformPhoneNumber" xml:space="preserve">
+    <value>Informe o número de telefone</value>
+  </data>
+  <data name="CompaniesFormInformWebsite" xml:space="preserve">
+    <value>Informe o site</value>
+  </data>
+  <data name="CompaniesFormInformZip" xml:space="preserve">
+    <value>Informe o CEP</value>
+  </data>
+  <data name="CompaniesFormInvalidZip" xml:space="preserve">
+    <value>CEP inválido</value>
+  </data>
+  <data name="CompaniesFormLblAddress" xml:space="preserve">
+    <value>Endereço</value>
+  </data>
+  <data name="CompaniesFormLblCity" xml:space="preserve">
+    <value>Cidade</value>
+  </data>
+  <data name="CompaniesFormLblCompanyName" xml:space="preserve">
+    <value>Nome da Empresa</value>
+  </data>
+  <data name="CompaniesFormLblContactName" xml:space="preserve">
+    <value>Nome de Contato</value>
+  </data>
+  <data name="CompaniesFormLblCountry" xml:space="preserve">
+    <value>País</value>
+  </data>
+  <data name="CompaniesFormLblEmail" xml:space="preserve">
+    <value>E-mail</value>
+  </data>
+  <data name="CompaniesFormLblNickname" xml:space="preserve">
+    <value>Apelido</value>
+  </data>
+  <data name="CompaniesFormLblPhoneNumber" xml:space="preserve">
+    <value>Número de Telefone</value>
+  </data>
+  <data name="CompaniesFormLblProvince" xml:space="preserve">
+    <value>Estado</value>
+  </data>
+  <data name="CompaniesFormLblWebsite" xml:space="preserve">
+    <value>Website</value>
+  </data>
+  <data name="CompaniesFormLblZipCode" xml:space="preserve">
+    <value>Código Postal</value>
+  </data>
+  <data name="CompaniesFormNicknameMustBeInformed" xml:space="preserve">
+    <value>O apelido deve ser informado</value>
+  </data>
+  <data name="CompaniesFormParagraph0" xml:space="preserve">
+    <value>Adicionar empresa</value>
+  </data>
+  <data name="CompaniesFormParagraph1" xml:space="preserve">
+    <value>Editar empresa</value>
+  </data>
+  <data name="CompaniesFormParagraph2" xml:space="preserve">
+    <value>Informações da empresa</value>
+  </data>
+  <data name="CompaniesFormParagraph3" xml:space="preserve">
+    <value>Contato</value>
+  </data>
+  <data name="CompaniesFormParagraph4" xml:space="preserve">
+    <value>Endereço</value>
+  </data>
+  <data name="CompaniesFormParagraph5" xml:space="preserve">
+    <value>Filiais</value>
+  </data>
+  <data name="CompaniesFormPhoneNumberMustBeInformed" xml:space="preserve">
+    <value>O número de telefone precisa ser informado</value>
+  </data>
+  <data name="CompaniesFormProvinceMustBeSelected" xml:space="preserve">
+    <value>O estado precisa ser selecionado</value>
+  </data>
+  <data name="CompaniesFormSearchForCompanyAndSave" xml:space="preserve">
+    <value>Pesquisar empresa e salvar</value>
+  </data>
+  <data name="CompaniesFormTableHeadActions" xml:space="preserve">
+    <value>Ações</value>
+  </data>
+  <data name="CompaniesFormTableHeadAddress" xml:space="preserve">
+    <value>Endereço</value>
+  </data>
+  <data name="CompaniesFormTableHeadCity" xml:space="preserve">
+    <value>Cidade</value>
+  </data>
+  <data name="CompaniesFormTableHeadName" xml:space="preserve">
     <value>Nome</value>
   </data>
-  <data name="MappingFieldsFormNameMustBeInformed" xml:space="preserve">
-    <value>Este campo é obrigatório</value>
+  <data name="CompaniesFormTableHeadPhoneNumber" xml:space="preserve">
+    <value>Número de Telefone</value>
   </data>
-  <data name="MappingFieldsFormParagraph1" xml:space="preserve">
-    <value>Adicionar campo de mapeamento</value>
+  <data name="CompaniesFormWebsiteMustBeInformed" xml:space="preserve">
+    <value>O website precisa ser informado</value>
+  </data>
+  <data name="CompaniesFormZipMustBeInformed" xml:space="preserve">
+    <value>O CEP precisa ser informado</value>
   </data>
 </root>

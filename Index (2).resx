@@ -117,28 +117,22 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="MachinesIndexBtnAddMachine" xml:space="preserve">
+  <data name="ApplicationIndexBreadcrumb1" xml:space="preserve">
     <value />
   </data>
-  <data name="MachinesIndexChangeViewModel" xml:space="preserve">
+  <data name="ApplicationIndexBreadcrumb2" xml:space="preserve">
     <value />
   </data>
-  <data name="MachinesIndexEditItem" xml:space="preserve">
+  <data name="ApplicationIndexBtnAddApplication" xml:space="preserve">
     <value />
   </data>
-  <data name="MachinesIndexNoData" xml:space="preserve">
+  <data name="ApplicationIndexParagraph1" xml:space="preserve">
     <value />
   </data>
-  <data name="MachinesIndexParagraph1" xml:space="preserve">
+  <data name="ApplicationIndexThActions" xml:space="preserve">
     <value />
   </data>
-  <data name="MachinesIndexShowAllMachines" xml:space="preserve">
-    <value />
-  </data>
-  <data name="MachinesIndexShowDisabled" xml:space="preserve">
-    <value />
-  </data>
-  <data name="MachinesIndexShowEnabled" xml:space="preserve">
+  <data name="ApplicationIndexThName" xml:space="preserve">
     <value />
   </data>
 </root>

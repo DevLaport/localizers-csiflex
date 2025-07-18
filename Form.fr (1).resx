@@ -117,37 +117,175 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="MachineStatesFormBtnCancel" xml:space="preserve">
+  <data name="CompaniesFormAddressMustBeInformed" xml:space="preserve">
+    <value>L'adresse doit être renseignée</value>
+  </data>
+  <data name="CompaniesFormBntLogo" xml:space="preserve">
+    <value>Logo</value>
+  </data>
+  <data name="CompaniesFormBreadcrumb1" xml:space="preserve">
+    <value>Accueil</value>
+  </data>
+  <data name="CompaniesFormBreadcrumb2" xml:space="preserve">
+    <value>Entreprise</value>
+  </data>
+  <data name="CompaniesFormBreadcrumb3" xml:space="preserve">
+    <value>Ajouter une entreprise</value>
+  </data>
+  <data name="CompaniesFormBtnAddDepartment" xml:space="preserve">
+    <value>Ajouter un département</value>
+  </data>
+  <data name="CompaniesFormBtnAddNewDivision" xml:space="preserve">
+    <value>Ajouter une Nouvelle Division</value>
+  </data>
+  <data name="CompaniesFormBtnCancel" xml:space="preserve">
     <value>Annuler</value>
   </data>
-  <data name="MachineStatesFormBtnSave" xml:space="preserve">
+  <data name="CompaniesFormBtnLogo" xml:space="preserve">
+    <value>Logo</value>
+  </data>
+  <data name="CompaniesFormBtnSave" xml:space="preserve">
     <value>Enregistrer</value>
   </data>
-  <data name="MachineStatesFormFillFieldsCustom" xml:space="preserve">
-    <value>Remplissez tous les champs marqués d'un (*) pour ajouter un état de machine personnalisé.</value>
+  <data name="CompaniesFormCityMustBeInformed" xml:space="preserve">
+    <value>La ville doit être renseignée</value>
   </data>
-  <data name="MachineStatesFormInfoPrimaryState" xml:space="preserve">
-    <value>Sélectionnez les nouveaux états pour cette action</value>
+  <data name="CompaniesFormCompanyNameMustBeInformed" xml:space="preserve">
+    <value>Le nom de l'entreprise doit être renseigné</value>
   </data>
-  <data name="MachineStatesFormLblEnabled" xml:space="preserve">
-    <value>Activé</value>
+  <data name="CompaniesFormContactNameMustBeInformed" xml:space="preserve">
+    <value>Le nom du contact doit être renseigné</value>
   </data>
-  <data name="MachineStatesFormLblName" xml:space="preserve">
+  <data name="CompaniesFormCountryMustBeSelected" xml:space="preserve">
+    <value>Le pays doit être sélectionné</value>
+  </data>
+  <data name="CompaniesFormDepartmentName" xml:space="preserve">
+    <value>Nom du département</value>
+  </data>
+  <data name="CompaniesFormDepartmentNameMustBeInformed" xml:space="preserve">
+    <value>Le nom du département doit être renseigné</value>
+  </data>
+  <data name="CompaniesFormDepartments" xml:space="preserve">
+    <value>Départements</value>
+  </data>
+  <data name="CompaniesFormEmailMustBeInformed" xml:space="preserve">
+    <value>L’e-mail doit être renseigné</value>
+  </data>
+  <data name="CompaniesFormInformAddress" xml:space="preserve">
+    <value>Renseigner l'adresse</value>
+  </data>
+  <data name="CompaniesFormInformCity" xml:space="preserve">
+    <value>Renseigner la ville</value>
+  </data>
+  <data name="CompaniesFormInformCompanyName" xml:space="preserve">
+    <value>Renseigner le nom de l'entreprise</value>
+  </data>
+  <data name="CompaniesFormInformContactName" xml:space="preserve">
+    <value>Renseigner le nom du contact</value>
+  </data>
+  <data name="CompaniesFormInformDepartmentName" xml:space="preserve">
+    <value>Renseigner le nom du département</value>
+  </data>
+  <data name="CompaniesFormInformEmail" xml:space="preserve">
+    <value>Renseigner l’e-mail</value>
+  </data>
+  <data name="CompaniesFormInformNickname" xml:space="preserve">
+    <value>Renseigner le surnom</value>
+  </data>
+  <data name="CompaniesFormInformPhoneNumber" xml:space="preserve">
+    <value>Renseigner le numéro de téléphone</value>
+  </data>
+  <data name="CompaniesFormInformWebsite" xml:space="preserve">
+    <value>Renseigner le site web</value>
+  </data>
+  <data name="CompaniesFormInformZip" xml:space="preserve">
+    <value>Renseigner le code postal</value>
+  </data>
+  <data name="CompaniesFormInvalidZip" xml:space="preserve">
+    <value>Code postal invalide</value>
+  </data>
+  <data name="CompaniesFormLblAddress" xml:space="preserve">
+    <value>Adresse</value>
+  </data>
+  <data name="CompaniesFormLblCity" xml:space="preserve">
+    <value>Ville</value>
+  </data>
+  <data name="CompaniesFormLblCompanyName" xml:space="preserve">
+    <value>Nom de la entreprise</value>
+  </data>
+  <data name="CompaniesFormLblContactName" xml:space="preserve">
+    <value>Nom du Contact</value>
+  </data>
+  <data name="CompaniesFormLblCountry" xml:space="preserve">
+    <value>Pays</value>
+  </data>
+  <data name="CompaniesFormLblEmail" xml:space="preserve">
+    <value>E-mail</value>
+  </data>
+  <data name="CompaniesFormLblNickname" xml:space="preserve">
+    <value>Surnom</value>
+  </data>
+  <data name="CompaniesFormLblPhoneNumber" xml:space="preserve">
+    <value>Numéro de Téléphone</value>
+  </data>
+  <data name="CompaniesFormLblProvince" xml:space="preserve">
+    <value>Province</value>
+  </data>
+  <data name="CompaniesFormLblWebsite" xml:space="preserve">
+    <value>Site Web</value>
+  </data>
+  <data name="CompaniesFormLblZipCode" xml:space="preserve">
+    <value>Code Postal</value>
+  </data>
+  <data name="CompaniesFormNicknameMustBeInformed" xml:space="preserve">
+    <value>Le surnom doit être renseigné</value>
+  </data>
+  <data name="CompaniesFormParagraph0" xml:space="preserve">
+    <value>Ajouter une entreprise</value>
+  </data>
+  <data name="CompaniesFormParagraph1" xml:space="preserve">
+    <value>Modifier l’entreprise</value>
+  </data>
+  <data name="CompaniesFormParagraph2" xml:space="preserve">
+    <value>Informations sur l'entreprise</value>
+  </data>
+  <data name="CompaniesFormParagraph3" xml:space="preserve">
+    <value>Contact</value>
+  </data>
+  <data name="CompaniesFormParagraph4" xml:space="preserve">
+    <value>Adresse</value>
+  </data>
+  <data name="CompaniesFormParagraph5" xml:space="preserve">
+    <value>Divisions</value>
+  </data>
+  <data name="CompaniesFormPhoneNumberMustBeInformed" xml:space="preserve">
+    <value>Le numéro de téléphone doit être renseigné</value>
+  </data>
+  <data name="CompaniesFormProvinceMustBeSelected" xml:space="preserve">
+    <value>La province doit être sélectionnée</value>
+  </data>
+  <data name="CompaniesFormSearchForCompanyAndSave" xml:space="preserve">
+    <value>Rechercher une entreprise et enregistrer</value>
+  </data>
+  <data name="CompaniesFormTableHeadActions" xml:space="preserve">
+    <value>Actions</value>
+  </data>
+  <data name="CompaniesFormTableHeadAddress" xml:space="preserve">
+    <value>Adresse</value>
+  </data>
+  <data name="CompaniesFormTableHeadCity" xml:space="preserve">
+    <value>Ville</value>
+  </data>
+  <data name="CompaniesFormTableHeadName" xml:space="preserve">
     <value>Nom</value>
   </data>
-  <data name="MachineStatesFormNameMustBeInformed" xml:space="preserve">
-    <value>Le nom doit être renseigné</value>
+  <data name="CompaniesFormTableHeadPhoneNumber" xml:space="preserve">
+    <value>Numéro de Téléphone</value>
   </data>
-  <data name="MachineStatesFormSelectColor" xml:space="preserve">
-    <value>Sélectionner une couleur</value>
+  <data name="CompaniesFormWebsiteMustBeInformed" xml:space="preserve">
+    <value>Le site web doit être renseigné</value>
   </data>
-  <data name="MachineStatesFormSelectIntegration" xml:space="preserve">
-    <value>Sélectionner une intégration</value>
-  </data>
-  <data name="MachineStatesFormTxtAddPrimaryState" xml:space="preserve">
-    <value>Ajouter un état de machine principal</value>
-  </data>
-  <data name="MachineStatesFormTxtEditPrimaryState" xml:space="preserve">
-    <value>Modifier l'état de machine par défaut</value>
+  <data name="CompaniesFormZipMustBeInformed" xml:space="preserve">
+    <value>Le code postal doit être renseigné</value>
   </data>
 </root>

@@ -117,115 +117,46 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="MachinesFormAddMachine" xml:space="preserve">
-    <value>Adicionar máquina</value>
+  <data name="ApplicationFormBreadcrumb1" xml:space="preserve">
+    <value>Página Inicial</value>
   </data>
-  <data name="MachinesFormAddMachineConnection" xml:space="preserve">
-    <value>Adicionar ligação</value>
+  <data name="ApplicationFormBreadcrumb2" xml:space="preserve">
+    <value>Aplicação</value>
   </data>
-  <data name="MachinesFormAddNewBrand" xml:space="preserve">
-    <value>Adicionar nova marca</value>
+  <data name="ApplicationFormBreadcrumb3" xml:space="preserve">
+    <value>Adicionar</value>
   </data>
-  <data name="MachinesFormAddNewModel" xml:space="preserve">
-    <value>Adicionar novo modelo</value>
-  </data>
-  <data name="MachinesFormAddNewSeries" xml:space="preserve">
-    <value>Adicionar nova série</value>
-  </data>
-  <data name="MachinesFormAddNewType" xml:space="preserve">
-    <value>Adicionar novo tipo</value>
-  </data>
-  <data name="MachinesFormBrandNameMustBeInformed" xml:space="preserve">
-    <value>O nome da marca deve ser informado</value>
-  </data>
-  <data name="MachinesFormBtnAddMachineConnection" xml:space="preserve">
-    <value>Adicionar ligação de máquina</value>
-  </data>
-  <data name="MachinesFormBtnCancel" xml:space="preserve">
+  <data name="ApplicationFormBtnCancel" xml:space="preserve">
     <value>Cancelar</value>
   </data>
-  <data name="MachinesFormBtnSave" xml:space="preserve">
+  <data name="ApplicationFormBtnSave" xml:space="preserve">
     <value>Guardar</value>
   </data>
-  <data name="MachinesFormInformBrandName" xml:space="preserve">
-    <value>Informar o nome da marca</value>
-  </data>
-  <data name="MachinesFormInformMachineName" xml:space="preserve">
-    <value>Informar o nome da máquina</value>
-  </data>
-  <data name="MachinesFormInformModelName" xml:space="preserve">
-    <value>Informar o nome do modelo</value>
-  </data>
-  <data name="MachinesFormInformSeriesName" xml:space="preserve">
-    <value>Informar o nome da série</value>
-  </data>
-  <data name="MachinesFormInformTypeName" xml:space="preserve">
-    <value>Informar o nome do tipo</value>
-  </data>
-  <data name="MachinesFormLblSelectBrand" xml:space="preserve">
-    <value>Selecionar marca</value>
-  </data>
-  <data name="MachinesFormLblSelectModel" xml:space="preserve">
-    <value>Selecionar modelo</value>
-  </data>
-  <data name="MachinesFormLblSelectSeries" xml:space="preserve">
-    <value>Selecionar série</value>
-  </data>
-  <data name="MachinesFormLblSelectType" xml:space="preserve">
-    <value>Selecionar tipo</value>
-  </data>
-  <data name="MachinesFormTitleMachineConnection" xml:space="preserve">
-    <value>Ligação da máquina</value>
-  </data>
-  <data name="MachinesFormMachineName" xml:space="preserve">
-    <value>Nome da máquinia</value>
-  </data>
-  <data name="MachinesFormMachineNameMustBeInformed" xml:space="preserve">
-    <value>O nome da máquina deve ser informado</value>
-  </data>
-  <data name="MachinesFormMachineTitle" xml:space="preserve">
-    <value>Máquina</value>
-  </data>
-  <data name="MachinesFormModelNameMustBeInformed" xml:space="preserve">
-    <value>O nome do modelo deve ser informado</value>
-  </data>
-  <data name="MachinesFormNoData" xml:space="preserve">
-    <value>Sem dados para exibir</value>
-  </data>
-  <data name="MachinesFormSeriesNameMustBeInformed" xml:space="preserve">
-    <value>O nome da série deve ser informado</value>
-  </data>
-  <data name="MachinesFormLblEnabled" xml:space="preserve">
+  <data name="ApplicationFormLblEnabled" xml:space="preserve">
     <value>Habilitado</value>
   </data>
-  <data name="MachinesFormThIPAddress" xml:space="preserve">
-    <value>Endereço IP</value>
-  </data>
-  <data name="MachinesFormThMachinePort" xml:space="preserve">
-    <value>Porta da máquina</value>
-  </data>
-  <data name="MachinesFormThName" xml:space="preserve">
+  <data name="ApplicationFormLblName" xml:space="preserve">
     <value>Nome</value>
   </data>
-  <data name="MachinesFormThSchema" xml:space="preserve">
-    <value>Esquema</value>
+  <data name="ApplicationFormNameMustBeInformed" xml:space="preserve">
+    <value>Por favor, forneça um nome</value>
   </data>
-  <data name="MachinesFormTypeNameMustBeInformed" xml:space="preserve">
-    <value>O nome do tipo deve ser informado</value>
+  <data name="ApplicationFormParagraph1" xml:space="preserve">
+    <value>Adicionar aplicação</value>
   </data>
-  <data name="MachinesFormTitleRules" xml:space="preserve">
-    <value>Regras</value>
+  <data name="ApplicationFormParagraph2" xml:space="preserve">
+    <value>Informações da aplicação</value>
   </data>
-  <data name="MachinesFormLblNewBrandName" xml:space="preserve">
-    <value>Nome da nova marca</value>
+  <data name="ApplicationFormInstruction1" xml:space="preserve">
+    <value>Preencha todos os campos assinalados com (*) e a informação necessária para adicionar a aplicação.</value>
   </data>
-  <data name="MachinesFormLblNewSeriesName" xml:space="preserve">
-    <value>Nome da nova série</value>
+  <data name="ApplicationFormInstruction1edit" xml:space="preserve">
+    <value>Preencha todos os campos assinalados com (*) e a informação necessária para editar a aplicação.</value>
   </data>
-  <data name="MachinesFormLblNewTypeName" xml:space="preserve">
-    <value>Nome do novo tipo</value>
+  <data name="ApplicationIndexShowDisabled" xml:space="preserve">
+    <value>Mostrar desabilitados</value>
   </data>
-  <data name="MachinesFormLblNewModelName" xml:space="preserve">
-    <value>Nome do novo modelo</value>
+  <data name="ApplicationIndexShowEnabled" xml:space="preserve">
+    <value>Mostrar habilitados</value>
   </data>
 </root>

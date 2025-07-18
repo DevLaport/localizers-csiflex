@@ -117,37 +117,22 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="MachineStatesIndexLblEnabled" xml:space="preserve">
-    <value>Habilitado</value>
+  <data name="ApplicationIndexBreadcrumb1" xml:space="preserve">
+    <value>Início</value>
   </data>
-  <data name="MachineStatesIndexLblName" xml:space="preserve">
+  <data name="ApplicationIndexBreadcrumb2" xml:space="preserve">
+    <value>Aplicações</value>
+  </data>
+  <data name="ApplicationIndexBtnAddApplication" xml:space="preserve">
+    <value>Adicionar aplicação</value>
+  </data>
+  <data name="ApplicationIndexParagraph1" xml:space="preserve">
+    <value>Aplicações</value>
+  </data>
+  <data name="ApplicationIndexThActions" xml:space="preserve">
+    <value>Ações</value>
+  </data>
+  <data name="ApplicationIndexThName" xml:space="preserve">
     <value>Nome</value>
-  </data>
-  <data name="MachineStatesIndexTitle" xml:space="preserve">
-    <value>Estados de máquina</value>
-  </data>
-  <data name="MachineStatesIndexAddPrimary" xml:space="preserve">
-    <value>Adicionar estado primário</value>
-  </data>
-  <data name="MachineStatesIndexInfolabel" xml:space="preserve">
-    <value>Nível máximo para monitoramento de produção</value>
-  </data>
-  <data name="MachineStatesIndexShowAll" xml:space="preserve">
-    <value>Mostrar todos</value>
-  </data>
-  <data name="MachineStatesIndexShowDisabled" xml:space="preserve">
-    <value>Mostrar desabilitados</value>
-  </data>
-  <data name="MachineStatesIndexShowEnabled" xml:space="preserve">
-    <value>Mostrar habilitados</value>
-  </data>
-  <data name="MachineStatesIndexNoData" xml:space="preserve">
-    <value>Sem dados</value>
-  </data>
-  <data name="MachineStatesIndexBtnSecondary" xml:space="preserve">
-    <value>Secundário</value>
-  </data>
-  <data name="MachineStatesIndexShowTile" xml:space="preserve">
-    <value>Mostrar grade</value>
   </data>
 </root>

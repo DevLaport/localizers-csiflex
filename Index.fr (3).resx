@@ -117,37 +117,70 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="MachineStatesIndexLblEnabled" xml:space="preserve">
-    <value>Activé</value>
+  <data name="CompaniesIndexBreadcrumb1" xml:space="preserve">
+    <value>Accueil</value>
   </data>
-  <data name="MachineStatesIndexLblName" xml:space="preserve">
+  <data name="CompaniesIndexBreadcrumb2" xml:space="preserve">
+    <value>Société</value>
+  </data>
+  <data name="CompaniesIndexBtnAddCompany" xml:space="preserve">
+    <value>Ajouter une Société</value>
+  </data>
+  <data name="CompaniesIndexHideSensitiveData" xml:space="preserve">
+    <value>Masquer les données sensibles</value>
+  </data>
+  <data name="CompaniesIndexNoData" xml:space="preserve">
+    <value>Aucune donnée à afficher</value>
+  </data>
+  <data name="CompaniesIndexParagraph1" xml:space="preserve">
+    <value>Entreprises</value>
+  </data>
+  <data name="CompaniesIndexSearch" xml:space="preserve">
+    <value>Rechercher</value>
+  </data>
+  <data name="CompaniesIndexSearchCriteria" xml:space="preserve">
+    <value>Tapez vos critères de recherche</value>
+  </data>
+  <data name="CompaniesIndexShowAll" xml:space="preserve">
+    <value>Afficher toutes les entreprises</value>
+  </data>
+  <data name="CompaniesIndexShowSensitiveData" xml:space="preserve">
+    <value>Afficher les données sensibles</value>
+  </data>
+  <data name="CompaniesIndexTableHeadActions" xml:space="preserve">
+    <value>Actions</value>
+  </data>
+  <data name="CompaniesIndexTableHeadCity" xml:space="preserve">
+    <value>Ville</value>
+  </data>
+  <data name="CompaniesIndexTableHeadContactName" xml:space="preserve">
+    <value>Nom du Contact</value>
+  </data>
+  <data name="CompaniesIndexTableHeadEmail" xml:space="preserve">
+    <value>E-mail</value>
+  </data>
+  <data name="CompaniesIndexTableHeadName" xml:space="preserve">
     <value>Nom</value>
   </data>
-  <data name="MachineStatesIndexTitle" xml:space="preserve">
-    <value>États des machines</value>
+  <data name="CompaniesIndexTableHeadNickname" xml:space="preserve">
+    <value>Surnom</value>
   </data>
-  <data name="MachineStatesIndexAddPrimary" xml:space="preserve">
-    <value>Ajouter un état principal</value>
+  <data name="CompaniesIndexTableHeadPhoneNumber" xml:space="preserve">
+    <value>Numéro de Téléphone</value>
   </data>
-  <data name="MachineStatesIndexInfolabel" xml:space="preserve">
-    <value>Niveau supérieur pour le monitoring de production</value>
+  <data name="CompaniesIndexTableHeadWebsite" xml:space="preserve">
+    <value>Site Web</value>
   </data>
-  <data name="MachineStatesIndexShowAll" xml:space="preserve">
-    <value>Afficher tout</value>
+  <data name="CompaniesIndexThEnable" xml:space="preserve">
+    <value>Activés/ Désactivés</value>
   </data>
-  <data name="MachineStatesIndexShowDisabled" xml:space="preserve">
+  <data name="CompaniesIndexShowDisabled" xml:space="preserve">
     <value>Afficher les désactivés</value>
   </data>
-  <data name="MachineStatesIndexShowEnabled" xml:space="preserve">
+  <data name="CompaniesIndexShowEnabled" xml:space="preserve">
     <value>Afficher les activés</value>
   </data>
-  <data name="MachineStatesIndexNoData" xml:space="preserve">
-    <value>Aucune donnée</value>
-  </data>
-  <data name="MachineStatesIndexBtnSecondary" xml:space="preserve">
-    <value>Secondaire</value>
-  </data>
-  <data name="MachineStatesIndexShowTile" xml:space="preserve">
-    <value>Afficher mode mosaïque</value>
+  <data name="CompaniesIndexChangeViewModel" xml:space="preserve">
+    <value>Changer le modèle d'affichage</value>
   </data>
 </root>

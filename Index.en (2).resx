@@ -117,28 +117,55 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="MachinesIndexBtnAddMachine" xml:space="preserve">
-    <value>Add machine</value>
+  <data name="breadcrumb1" xml:space="preserve">
+    <value>Home</value>
   </data>
-  <data name="MachinesIndexChangeViewModel" xml:space="preserve">
-    <value>Change view model</value>
+  <data name="breadcrumb2" xml:space="preserve">
+    <value>Departments</value>
   </data>
-  <data name="MachinesIndexEditItem" xml:space="preserve">
-    <value>Edit item</value>
+  <data name="btnAdd" xml:space="preserve">
+    <value>Add</value>
   </data>
-  <data name="MachinesIndexNoData" xml:space="preserve">
-    <value>No data to display</value>
+  <data name="btnCancel" xml:space="preserve">
+    <value>Cancel</value>
   </data>
-  <data name="MachinesIndexParagraph1" xml:space="preserve">
-    <value>Machines</value>
+  <data name="btnClick1" xml:space="preserve">
+    <value>Click to edit the item</value>
   </data>
-  <data name="MachinesIndexShowAllMachines" xml:space="preserve">
-    <value>Show all machines</value>
+  <data name="btnClick2" xml:space="preserve">
+    <value>Click to collapse all items</value>
   </data>
-  <data name="MachinesIndexShowDisabled" xml:space="preserve">
-    <value>Show disabled</value>
+  <data name="btnClick3" xml:space="preserve">
+    <value>Click to show all items</value>
   </data>
-  <data name="MachinesIndexShowEnabled" xml:space="preserve">
-    <value>Show enabled</value>
+  <data name="btnClick4" xml:space="preserve">
+    <value>Click to delete the item</value>
+  </data>
+  <data name="btnDelete" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="btnEdit" xml:space="preserve">
+    <value>Edit</value>
+  </data>
+  <data name="lblCompany" xml:space="preserve">
+    <value>Company / Department / Group</value>
+  </data>
+  <data name="lblDepartmentName" xml:space="preserve">
+    <value>Department Name</value>
+  </data>
+  <data name="lblDepartmentType" xml:space="preserve">
+    <value>Department Type</value>
+  </data>
+  <data name="paragraph1" xml:space="preserve">
+    <value>Departments</value>
+  </data>
+  <data name="paragraph2" xml:space="preserve">
+    <value>Departament or Group</value>
+  </data>
+  <data name="pDelete" xml:space="preserve">
+    <value>Do you really want to delete</value>
+  </data>
+  <data name="txtSelect" xml:space="preserve">
+    <value>(select)</value>
   </data>
 </root>

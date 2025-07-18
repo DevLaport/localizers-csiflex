@@ -117,37 +117,79 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="MachineStatesFormBtnCancel" xml:space="preserve">
+  <data name="GroupsFormBreadcrumb1" xml:space="preserve">
+    <value>Grupos</value>
+  </data>
+  <data name="GroupsFormBreadcrumb2" xml:space="preserve">
+    <value>Grupo</value>
+  </data>
+  <data name="GroupsFormBreadcrumb3" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="GroupsFormBtnCancel" xml:space="preserve">
     <value>Cancelar</value>
   </data>
-  <data name="MachineStatesFormBtnSave" xml:space="preserve">
+  <data name="GroupsFormBtnSave" xml:space="preserve">
     <value>Salvar</value>
   </data>
-  <data name="MachineStatesFormFillFieldsCustom" xml:space="preserve">
-    <value>Preencha todos os campos marcados com (*) para adicionar um estado de máquina personalizado.</value>
+  <data name="GroupsFormBtnSearchMachine" xml:space="preserve">
+    <value>Pesquisar máquina</value>
   </data>
-  <data name="MachineStatesFormInfoPrimaryState" xml:space="preserve">
-    <value>Escolha os novos estados para esta ação</value>
+  <data name="GroupsFormBtnSearchUser" xml:space="preserve">
+    <value>Pesquisar usuário</value>
   </data>
-  <data name="MachineStatesFormLblEnabled" xml:space="preserve">
+  <data name="GroupsFormLblCompanySearch" xml:space="preserve">
+    <value>Pesquisar Empresas</value>
+  </data>
+  <data name="GroupsFormBtnSearchCompany" xml:space="preserve">
+    <value>Pesquisar empresa</value>
+  </data>
+  <data name="GroupsFormLblEnabled" xml:space="preserve">
     <value>Habilitado</value>
   </data>
-  <data name="MachineStatesFormLblName" xml:space="preserve">
+  <data name="GroupsFormLblMachineSearch" xml:space="preserve">
+    <value>Pesquisar Maquinas</value>
+  </data>
+  <data name="GroupsFormLblMachineSearch2" xml:space="preserve">
+    <value>Procure por máquina e salve</value>
+  </data>
+  <data name="GroupsFormLblCompanySearch2" xml:space="preserve">
+    <value>Procure por empresa e salve</value>
+  </data>
+  <data name="GroupsFormLblUserSearch2" xml:space="preserve">
+    <value>Procure por usuário e salve</value>
+  </data>
+  <data name="GroupsFormLblName" xml:space="preserve">
     <value>Nome</value>
   </data>
-  <data name="MachineStatesFormNameMustBeInformed" xml:space="preserve">
-    <value>O nome deve ser informado</value>
+  <data name="GroupsFormLblType" xml:space="preserve">
+    <value>Tipo</value>
   </data>
-  <data name="MachineStatesFormSelectColor" xml:space="preserve">
-    <value>Selecionar cor</value>
+  <data name="GroupsFormLblUserSearch" xml:space="preserve">
+    <value>Pesquisar Usuarios</value>
   </data>
-  <data name="MachineStatesFormSelectIntegration" xml:space="preserve">
-    <value>Selecionar integração</value>
+  <data name="GroupsFormNoData" xml:space="preserve">
+    <value>Sem dados para exibir</value>
   </data>
-  <data name="MachineStatesFormTxtAddPrimaryState" xml:space="preserve">
-    <value>Adicionar estado principal da máquina</value>
+  <data name="GroupsFormTabCompanies" xml:space="preserve">
+    <value>Vincular empresas</value>
   </data>
-  <data name="MachineStatesFormTxtEditPrimaryState" xml:space="preserve">
-    <value>Editar estado padrão da máquina</value>
+  <data name="GroupsFormTabGroup" xml:space="preserve">
+    <value>Grupo</value>
+  </data>
+  <data name="GroupsFormTabMachines" xml:space="preserve">
+    <value>Vincular Maquinas</value>
+  </data>
+  <data name="GroupsFormTabUsers" xml:space="preserve">
+    <value>Vincular Usuarios</value>
+  </data>
+  <data name="GroupsFormThCompany" xml:space="preserve">
+    <value>Empresa</value>
+  </data>
+  <data name="GroupsFormThMachine" xml:space="preserve">
+    <value>Máquina</value>
+  </data>
+  <data name="GroupsFormThUser" xml:space="preserve">
+    <value>Usuário</value>
   </data>
 </root>

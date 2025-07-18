@@ -117,37 +117,23 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="MenusIndexBreadcrumb1" xml:space="preserve">
+  <data name="btnSave" xml:space="preserve">
+    <value>Enregistrer</value>
+  </data>
+  <data name="FirstParagraph" xml:space="preserve">
+    <value>Bienvenue à</value>
+  </data>
+  <data name="lblCompanyName" xml:space="preserve">
+    <value>NUL</value>
+  </data>
+  <data name="navHome" xml:space="preserve">
     <value>Accueil</value>
   </data>
-  <data name="MenusIndexBreadcrumb2" xml:space="preserve">
-    <value>Entreprises</value>
+  <data name="txtInput" xml:space="preserve">
+    <value>Insérer</value>
   </data>
-  <data name="MenusIndexBtnAddMenu" xml:space="preserve">
-    <value>Ajouter un menu</value>
-  </data>
-  <data name="MenusIndexParagraph1" xml:space="preserve">
-    <value>Entreprise</value>
-  </data>
-  <data name="MenusIndexBtnAddItemInside" xml:space="preserve">
-    <value>Ajouter un élément associé</value>
-  </data>
-  <data name="MenusIndexLblMoveUp" xml:space="preserve">
-    <value>Monter</value>
-  </data>
-  <data name="MenusIndexLblMoveDown" xml:space="preserve">
-    <value>Descendre</value>
-  </data>
-  <data name="MenusIndexToggleEnabled" xml:space="preserve">
-    <value>Activer/Désactiver</value>
-  </data>
-  <data name="MenusIndexBtnEdit" xml:space="preserve">
-    <value>Modifier l'élément</value>
-  </data>
-  <data name="MenusIndexThPhoneNumber" xml:space="preserve">
-    <value>Numéro de Téléphone</value>
-  </data>
-  <data name="MenusIndexLblMenu" xml:space="preserve">
-    <value>Menus</value>
+  <data name="thUsername" xml:space="preserve">
+    <value>Username
+</value>
   </data>
 </root>
