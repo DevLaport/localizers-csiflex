@@ -117,118 +117,37 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="breadcrumb1" xml:space="preserve">
-    <value>Home</value>
+  <data name="MenusIndexBreadcrumb1" xml:space="preserve">
+    <value>Página Inicial</value>
   </data>
-  <data name="breadcrumb2" xml:space="preserve">
-    <value>Integrations</value>
+  <data name="MenusIndexBreadcrumb2" xml:space="preserve">
+    <value>Empresas</value>
   </data>
-  <data name="breadcrumb3" xml:space="preserve">
-    <value>Connections</value>
+  <data name="MenusIndexBtnAddMenu" xml:space="preserve">
+    <value>Adicionar menu</value>
   </data>
-  <data name="btnCancel" xml:space="preserve">
-    <value>Cancelar</value>
+  <data name="MenusIndexParagraph1" xml:space="preserve">
+    <value>Empresa</value>
   </data>
-  <data name="btnConnect" xml:space="preserve">
-    <value>Connect</value>
+  <data name="MenusIndexBtnAddItemInside" xml:space="preserve">
+    <value>Adicionar item relacionado</value>
   </data>
-  <data name="btnConnected" xml:space="preserve">
-    <value>Connected</value>
+  <data name="MenusIndexLblMoveUp" xml:space="preserve">
+    <value>Subir</value>
   </data>
-  <data name="btnSave" xml:space="preserve">
-    <value>Salvar</value>
+  <data name="MenusIndexLblMoveDown" xml:space="preserve">
+    <value>Descer</value>
   </data>
-  <data name="btnSettings" xml:space="preserve">
-    <value>Settings</value>
-  </data>
-  <data name="changeViewModel" xml:space="preserve">
-    <value>Alterar modelo de visualização</value>
-  </data>
-  <data name="dropDeleteConnection" xml:space="preserve">
-    <value>Delete Connection</value>
-  </data>
-  <data name="dropDisable" xml:space="preserve">
-    <value>Disable</value>
-  </data>
-  <data name="dropEditConnection" xml:space="preserve">
-    <value>Edit Connection</value>
-  </data>
-  <data name="dropMachines" xml:space="preserve">
-    <value>Machines</value>
-  </data>
-  <data name="dropShifts" xml:space="preserve">
-    <value>Shifts</value>
-  </data>
-  <data name="lblLike" xml:space="preserve">
-    <value>Like</value>
-  </data>
-  <data name="lblShare" xml:space="preserve">
-    <value>Share</value>
-  </data>
-  <data name="liDNC" xml:space="preserve">
-    <value>DNC</value>
-  </data>
-  <data name="liMonitoring" xml:space="preserve">
-    <value>Monitoring</value>
-  </data>
-  <data name="liOthersDevices" xml:space="preserve">
-    <value>OthersDevices</value>
-  </data>
-  <data name="paragraph1" xml:space="preserve">
-    <value>Adapters</value>
-  </data>
-  <data name="paragraph2" xml:space="preserve">
-    <value>Connections Type</value>
-  </data>
-  <data name="showAll" xml:space="preserve">
-    <value>Mostrar todos</value>
-  </data>
-  <data name="showDisabled" xml:space="preserve">
-    <value>Mostrar todos inativos</value>
-  </data>
-  <data name="showEnabled" xml:space="preserve">
-    <value>Mostrar todos ativos</value>
-  </data>
-  <data name="titleConfigItem" xml:space="preserve">
-    <value>Configurações</value>
-  </data>
-  <data name="titleENETDNC" xml:space="preserve">
-    <value>eNETDNC Monitoring</value>
-  </data>
-  <data name="titleFocas" xml:space="preserve">
-    <value>Focas DNC</value>
-  </data>
-  <data name="titleIMonnit" xml:space="preserve">
-    <value>iMonnit Cloud Sensor Management Software</value>
-  </data>
-  <data name="titleMTconnect" xml:space="preserve">
-    <value>MT Connect</value>
-  </data>
-  <data name="titleRunning" xml:space="preserve">
-    <value>O serviço está rodando</value>
-  </data>
-  <data name="titleNotRunning" xml:space="preserve">
-    <value>O serviço está parado</value>
-  </data>
-  <data name="txteNetDNC" xml:space="preserve">
-    <value>At it’s core eNETDNC provides a way to link CNC machines to your network. This can be done both wired or wirelessly, depending on the scenario. Data, like G-code programs, can then be shared between the machine and computer. This can eliminate the need to manually transfer files back and forth. The files can be located on a central server that everyone can access, preventing confusion when it comes to things like revisions. With eNETDNC the operator can send/receive data using the CNC control, so they don’t have to leave the machine. The eNETDNC system also helps with file organization, storage, and backup. With Smart File Compare file revisions are managed and the original files are preserved. All of the uploads are reviewed for changes and stored for approval. If you don’t have a DNC system already, or have one that isn’t working properly, you could be undermining your profit margin. For that reason, the return on investment for an eNETDNC system can be very fast. Most companies realize a payback period of less than 6 months. Some return on investment calculations revealed paybacks in just six weeks.</value>
-  </data>
-  <data name="txtFocas" xml:space="preserve">
-    <value>FOCAS Automation Solutions (FAS), based on the FANUC FOCAS API, are designed to simplify the connectivity of third-party hardware or software to the FANUC CNC, and they allow for easy transmission and collection of data from a FANUC CNC. FAS products are either purely software based solutions or propriety software and hardware solutions. All of the FAS solutions below are available in a 30 day trial version from your local FANUC America CNC salesperson or by contacting the FANUC America CNC options team.</value>
-  </data>
-  <data name="txtIMonnit" xml:space="preserve">
-    <value>iMonnit is a cloud based mobile internet platform and central hub for managing Monnit and ALTA products. All data is secured on dedicated servers operating Microsoft SQL Server. This online user interface is where all your device settings can be arranged, supervised, and modified to reflect your unique environment. You can access iMonnit on an internet browser simply by typing www.imonnit.com into the address bar. In addition, you can also download the iMonnit App to your smartphone or tablet. Start with the basic version or upgrade to iMonnit Premiere to enjoy the full features your Monnit experience can offer.</value>
-  </data>
-  <data name="txtMTConnect" xml:space="preserve">
-    <value>PLUG-AND-PLAY INTERCONNECTIVITY FOR ENHANCED PRODUCTIVITY When it comes to your machine tool, even the tiniest modifications can have a significant impact on overall efficiency. Data is king, and that’s what MTConnect provides: detailed information over time to help you maximize performance. By establishing an open and expandable channel of communication for plug-and-play interconnectivity between all of your devices, equipment, and systems, MTConnect allows these different sources to exchange and understand each other's data. That common communication is facilitated by using widely accepted XML and Internet Protocol technology to provide you with near real-time data from your entire operation, data you can access via a computer interface of your choosing. Thanks to our control’s open-architecture configuration, any Okuma machine tool with the OSP-P control is MTConnect-ready. In fact, installation is as easy as connecting an Ethernet cable.</value>
-  </data>
-  <data name="titleInstalled" xml:space="preserve">
-    <value>Instalado</value>
-  </data>
-  <data name="titleNotInstalled" xml:space="preserve">
-    <value>Instalar</value>
-  </data>
-  <data name="titleEnabledDisabled" xml:space="preserve">
+  <data name="MenusIndexToggleEnabled" xml:space="preserve">
     <value>Ativar/Desativar</value>
+  </data>
+  <data name="MenusIndexBtnEdit" xml:space="preserve">
+    <value>Editar item</value>
+  </data>
+  <data name="MenusIndexThPhoneNumber" xml:space="preserve">
+    <value>Número de Telefone</value>
+  </data>
+  <data name="MenusIndexLblMenu" xml:space="preserve">
+    <value>Menus</value>
   </data>
 </root>

@@ -117,115 +117,37 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="MachinesFormAddMachine" xml:space="preserve">
-    <value>Add machine</value>
-  </data>
-  <data name="MachinesFormAddMachineConnection" xml:space="preserve">
-    <value>Add connection</value>
-  </data>
-  <data name="MachinesFormAddNewBrand" xml:space="preserve">
-    <value>Add new brand</value>
-  </data>
-  <data name="MachinesFormAddNewModel" xml:space="preserve">
-    <value>Add new model</value>
-  </data>
-  <data name="MachinesFormAddNewSeries" xml:space="preserve">
-    <value>Add new series</value>
-  </data>
-  <data name="MachinesFormAddNewType" xml:space="preserve">
-    <value>Add new Type</value>
-  </data>
-  <data name="MachinesFormBrandNameMustBeInformed" xml:space="preserve">
-    <value>Brand name must be informed</value>
-  </data>
-  <data name="MachinesFormBtnAddMachineConnection" xml:space="preserve">
-    <value>Add machine connection</value>
-  </data>
-  <data name="MachinesFormBtnCancel" xml:space="preserve">
+  <data name="MachineStatesFormBtnCancel" xml:space="preserve">
     <value>Cancel</value>
   </data>
-  <data name="MachinesFormBtnSave" xml:space="preserve">
+  <data name="MachineStatesFormBtnSave" xml:space="preserve">
     <value>Save</value>
   </data>
-  <data name="MachinesFormInformBrandName" xml:space="preserve">
-    <value>Inform brand name</value>
+  <data name="MachineStatesFormFillFieldsCustom" xml:space="preserve">
+    <value>Fill in all fields marked with (*) to add a custom machine state.</value>
   </data>
-  <data name="MachinesFormInformMachineName" xml:space="preserve">
-    <value>Inform machine name</value>
+  <data name="MachineStatesFormInfoPrimaryState" xml:space="preserve">
+    <value>Choose the new states for this action</value>
   </data>
-  <data name="MachinesFormInformModelName" xml:space="preserve">
-    <value>Inform model name</value>
-  </data>
-  <data name="MachinesFormInformSeriesName" xml:space="preserve">
-    <value>Inform series name</value>
-  </data>
-  <data name="MachinesFormInformTypeName" xml:space="preserve">
-    <value>Inform type name</value>
-  </data>
-  <data name="MachinesFormLblSelectBrand" xml:space="preserve">
-    <value>Select brand</value>
-  </data>
-  <data name="MachinesFormLblSelectModel" xml:space="preserve">
-    <value>Select model</value>
-  </data>
-  <data name="MachinesFormLblSelectSeries" xml:space="preserve">
-    <value>Select series</value>
-  </data>
-  <data name="MachinesFormLblSelectType" xml:space="preserve">
-    <value>Select type</value>
-  </data>
-  <data name="MachinesFormTitleMachineConnection" xml:space="preserve">
-    <value>Machine connection</value>
-  </data>
-  <data name="MachinesFormMachineName" xml:space="preserve">
-    <value>Machine name</value>
-  </data>
-  <data name="MachinesFormMachineNameMustBeInformed" xml:space="preserve">
-    <value>Machine name must be informed</value>
-  </data>
-  <data name="MachinesFormMachineTitle" xml:space="preserve">
-    <value>Machine</value>
-  </data>
-  <data name="MachinesFormModelNameMustBeInformed" xml:space="preserve">
-    <value>Model name must be informed</value>
-  </data>
-  <data name="MachinesFormNoData" xml:space="preserve">
-    <value>No data to display</value>
-  </data>
-  <data name="MachinesFormSeriesNameMustBeInformed" xml:space="preserve">
-    <value>Series name must be informed</value>
-  </data>
-  <data name="MachinesFormLblEnabled" xml:space="preserve">
+  <data name="MachineStatesFormLblEnabled" xml:space="preserve">
     <value>Enabled</value>
   </data>
-  <data name="MachinesFormThIPAddress" xml:space="preserve">
-    <value>IP Address</value>
-  </data>
-  <data name="MachinesFormThMachinePort" xml:space="preserve">
-    <value>Machine port</value>
-  </data>
-  <data name="MachinesFormThName" xml:space="preserve">
+  <data name="MachineStatesFormLblName" xml:space="preserve">
     <value>Name</value>
   </data>
-  <data name="MachinesFormThSchema" xml:space="preserve">
-    <value>Schema</value>
+  <data name="MachineStatesFormNameMustBeInformed" xml:space="preserve">
+    <value>The name must be informed</value>
   </data>
-  <data name="MachinesFormTypeNameMustBeInformed" xml:space="preserve">
-    <value>Type name must be informed</value>
+  <data name="MachineStatesFormSelectColor" xml:space="preserve">
+    <value>Select color</value>
   </data>
-  <data name="MachinesFormTitleRules" xml:space="preserve">
-    <value>Rules</value>
+  <data name="MachineStatesFormSelectIntegration" xml:space="preserve">
+    <value>Select integration</value>
   </data>
-  <data name="MachinesFormLblNewBrandName" xml:space="preserve">
-    <value>New brand name</value>
+  <data name="MachineStatesFormTxtAddPrimaryState" xml:space="preserve">
+    <value>Add primary machine state</value>
   </data>
-  <data name="MachinesFormLblNewSeriesName" xml:space="preserve">
-    <value>New series name</value>
-  </data>
-  <data name="MachinesFormLblNewTypeName" xml:space="preserve">
-    <value>New type name</value>
-  </data>
-  <data name="MachinesFormLblNewModelName" xml:space="preserve">
-    <value>New model name</value>
+  <data name="MachineStatesFormTxtEditPrimaryState" xml:space="preserve">
+    <value>Edit default machine state</value>
   </data>
 </root>

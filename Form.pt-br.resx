@@ -117,82 +117,37 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="MenusFormBreadcrumb1" xml:space="preserve">
-    <value>Página Inicial</value>
-  </data>
-  <data name="MenusFormBreadcrumb2" xml:space="preserve">
-    <value>Empresas</value>
-  </data>
-  <data name="MenusFormBtnAddMenu" xml:space="preserve">
-    <value>Adicionar menu</value>
-  </data>
-  <data name="MenusFormParagraph1" xml:space="preserve">
-    <value>Empresa</value>
-  </data>
-  <data name="MenusFormLblMoveUp" xml:space="preserve">
-    <value>Subir</value>
-  </data>
-  <data name="MenusFormLblMoveDown" xml:space="preserve">
-    <value>Descer</value>
-  </data>
-  <data name="MenusFormToggleEnabled" xml:space="preserve">
-    <value>Habilitar/Desabilitar</value>
-  </data>
-  <data name="MenusFormBtnEdit" xml:space="preserve">
-    <value>Editar item</value>
-  </data>
-  <data name="MenusFormThPhoneNumber" xml:space="preserve">
-    <value>Número de Telefone</value>
-  </data>
-  <data name="MenusFormLblMenu" xml:space="preserve">
-    <value>Menus</value>
-  </data>
-  <data name="MenusFormAddOrEditMenuItem" xml:space="preserve">
-    <value>Adicionar ou editar menu</value>
-  </data>
-  <data name="MenusFormItemName" xml:space="preserve">
-    <value>Nome do item</value>
-  </data>
-  <data name="MenusFormURL" xml:space="preserve">
-    <value>URL</value>
-  </data>
-  <data name="MenusFormLblLevel" xml:space="preserve">
-    <value>Nível</value>
-  </data>
-  <data name="MenusFormLblIcon" xml:space="preserve">
-    <value>Ícone</value>
-  </data>
-  <data name="MenusFormLblEnable" xml:space="preserve">
-    <value>Habilitado</value>
-  </data>
-  <data name="MenusFormLblEnabledMenuAction" xml:space="preserve">
-    <value>Ação de menu habilitada</value>
-  </data>
-  <data name="MenusFormLblSpecificAction" xml:space="preserve">
-    <value>Ação específica</value>
-  </data>
-  <data name="MenusFormBtnSave" xml:space="preserve">
-    <value>Salvar</value>
-  </data>
-  <data name="MenusFormBtnCancel" xml:space="preserve">
+  <data name="MachineStatesFormBtnCancel" xml:space="preserve">
     <value>Cancelar</value>
   </data>
-  <data name="MenusFormAccess" xml:space="preserve">
-    <value>Acesso</value>
+  <data name="MachineStatesFormBtnSave" xml:space="preserve">
+    <value>Salvar</value>
   </data>
-  <data name="MenusFormList" xml:space="preserve">
-    <value>Lista</value>
+  <data name="MachineStatesFormFillFieldsCustom" xml:space="preserve">
+    <value>Preencha todos os campos marcados com (*) para adicionar um estado de máquina personalizado.</value>
   </data>
-  <data name="MenusFormAdd" xml:space="preserve">
-    <value>Adicionar</value>
+  <data name="MachineStatesFormInfoPrimaryState" xml:space="preserve">
+    <value>Escolha os novos estados para esta ação</value>
   </data>
-  <data name="MenusFormEdit" xml:space="preserve">
-    <value>Editar</value>
+  <data name="MachineStatesFormLblEnabled" xml:space="preserve">
+    <value>Habilitado</value>
   </data>
-  <data name="MenusFormDelete" xml:space="preserve">
-    <value>Excluir</value>
+  <data name="MachineStatesFormLblName" xml:space="preserve">
+    <value>Nome</value>
   </data>
-  <data name="MenusFormSpecificAction" xml:space="preserve">
-    <value>Ação específica</value>
+  <data name="MachineStatesFormNameMustBeInformed" xml:space="preserve">
+    <value>O nome deve ser informado</value>
+  </data>
+  <data name="MachineStatesFormSelectColor" xml:space="preserve">
+    <value>Selecionar cor</value>
+  </data>
+  <data name="MachineStatesFormSelectIntegration" xml:space="preserve">
+    <value>Selecionar integração</value>
+  </data>
+  <data name="MachineStatesFormTxtAddPrimaryState" xml:space="preserve">
+    <value>Adicionar estado principal da máquina</value>
+  </data>
+  <data name="MachineStatesFormTxtEditPrimaryState" xml:space="preserve">
+    <value>Editar estado padrão da máquina</value>
   </data>
 </root>

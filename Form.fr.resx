@@ -117,28 +117,82 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="MappingFieldsFormBtnCancel" xml:space="preserve">
-    <value>Annuler</value>
+  <data name="MenusFormBreadcrumb1" xml:space="preserve">
+    <value>Accueil</value>
   </data>
-  <data name="MappingFieldsFormBtnSave" xml:space="preserve">
-    <value>Enregistrer</value>
+  <data name="MenusFormBreadcrumb2" xml:space="preserve">
+    <value>Entreprises</value>
   </data>
-  <data name="MappingFieldsFormLabelType" xml:space="preserve">
-    <value>Type</value>
+  <data name="MenusFormBtnAddMenu" xml:space="preserve">
+    <value>Ajouter un menu</value>
   </data>
-  <data name="MappingFieldsFormLabelTypeRequired" xml:space="preserve">
-    <value>Le champ Type est obligatoire</value>
+  <data name="MenusFormParagraph1" xml:space="preserve">
+    <value>Entreprise</value>
   </data>
-  <data name="MappingFieldsFormLblEnabled" xml:space="preserve">
+  <data name="MenusFormLblMoveUp" xml:space="preserve">
+    <value>Monter</value>
+  </data>
+  <data name="MenusFormLblMoveDown" xml:space="preserve">
+    <value>Descendre</value>
+  </data>
+  <data name="MenusFormToggleEnabled" xml:space="preserve">
+    <value>Activer/Désactiver</value>
+  </data>
+  <data name="MenusFormBtnEdit" xml:space="preserve">
+    <value>Modifier l'élément</value>
+  </data>
+  <data name="MenusFormThPhoneNumber" xml:space="preserve">
+    <value>Numéro de Téléphone</value>
+  </data>
+  <data name="MenusFormLblMenu" xml:space="preserve">
+    <value>Menus</value>
+  </data>
+  <data name="MenusFormAddOrEditMenuItem" xml:space="preserve">
+    <value>Ajouter ou modifier un menu</value>
+  </data>
+  <data name="MenusFormItemName" xml:space="preserve">
+    <value>Nom de l'article</value>
+  </data>
+  <data name="MenusFormURL" xml:space="preserve">
+    <value>URL</value>
+  </data>
+  <data name="MenusFormLblLevel" xml:space="preserve">
+    <value>Niveau</value>
+  </data>
+  <data name="MenusFormLblIcon" xml:space="preserve">
+    <value>Icône</value>
+  </data>
+  <data name="MenusFormLblEnable" xml:space="preserve">
     <value>Activé</value>
   </data>
-  <data name="MappingFieldsFormLblName" xml:space="preserve">
-    <value>Nom</value>
+  <data name="MenusFormLblEnabledMenuAction" xml:space="preserve">
+    <value>Action de menu activée</value>
   </data>
-  <data name="MappingFieldsFormNameMustBeInformed" xml:space="preserve">
-    <value>Ce champ est obligatoire</value>
+  <data name="MenusFormLblSpecificAction" xml:space="preserve">
+    <value>Action spécifique</value>
   </data>
-  <data name="MappingFieldsFormParagraph1" xml:space="preserve">
-    <value>Ajouter champ de mappage</value>
+  <data name="MenusFormBtnSave" xml:space="preserve">
+    <value>Enregistrer</value>
+  </data>
+  <data name="MenusFormBtnCancel" xml:space="preserve">
+    <value>Annuler</value>
+  </data>
+  <data name="MenusFormAccess" xml:space="preserve">
+    <value>Accès</value>
+  </data>
+  <data name="MenusFormList" xml:space="preserve">
+    <value>Liste</value>
+  </data>
+  <data name="MenusFormAdd" xml:space="preserve">
+    <value>Ajouter</value>
+  </data>
+  <data name="MenusFormEdit" xml:space="preserve">
+    <value>Éditer</value>
+  </data>
+  <data name="MenusFormDelete" xml:space="preserve">
+    <value>Supprimer</value>
+  </data>
+  <data name="MenusFormSpecificAction" xml:space="preserve">
+    <value>Action spécifique</value>
   </data>
 </root>
